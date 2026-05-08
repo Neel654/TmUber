@@ -2,8 +2,7 @@
 
 > **Java console simulation** of an Uber‑style platform with users, drivers, rides, and deliveries, built around a simple city map and a menu‑driven terminal UI. 
 
-[![Java](https://img.shields.io/badge/Java-Console%20App-red?style=for-the-badge&logo=coffeescript)](https://www.oracle.com/java/)  
-[![CLI](https://img.shields.io/badge/Interface-Command%20Line-blue?style=for-the-badge&logo=terminal)]()  
+[![Java](https://img.shields.io/badge/Java-Console%20App-red?style=for-the-badge&logo=coffeescript)](https://www.oracle.com/java/)[![CLI](https://img.shields.io/badge/Interface-Command%20Line-blue?style=for-the-badge&logo=terminal)]()  
 
 ---
 
